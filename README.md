@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Dotnet, Bootsrap, Node, Yarn e AWS.</strong>
+  💼 Ferramentas: <strong>.NET, Bootsrap, Node, Yarn e AWS.</strong>
 </p>
 
 <p align="left">
