@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#, Java, Javascript, Html e CSS</strong> por enquanto.
+  🦄 Linguagens: <strong>C#, Java, Javascript e CSS</strong> por enquanto.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>.NET, Bootsrap, Node, Yarn e AWS.</strong>
+  💼 Ferramentas: <strong>.NET, .NET Core, MongoDB, Bootsrap, Node, Yarn e AWS.</strong>
 </p>
 
 <p align="left">
