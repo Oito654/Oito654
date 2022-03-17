@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#, Java, Javascript e CSS</strong> por enquanto.
+ 🖥️ Linguagens: <strong>C#, Java, Javascript e CSS</strong> por enquanto.
 </p>
 
 <p align="left">
