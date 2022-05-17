@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>.NET, .NET Core, MongoDB, Bootsrap, Node, Yarn e AWS.</strong>
+  💼 Ferramentas: <strong>.NET, .NET Core, MongoDB, Bootsrap, Node, Yarn, Reactive JS, Reactive Native e AWS.</strong>
 </p>
 
 <p align="left">
