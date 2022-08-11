@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Bem vindo! Me chamo Octavius Alimari e estou aprendendo programação <strong>full-stack web</strong>.<br>
-  No momento estudo Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (Faculdade das Américas) e trabalhando na empresa Enconta, aprendendo e fazendo um   pouco de tudo.
+  No momento estudo Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (Faculdade das Américas) e trabalhando na empresa Jazz Tech como desenvoldedor backend junior.
 </p>
 
 <p align="left">
