@@ -23,3 +23,6 @@
 
   <a href="https://api.whatsapp.com/send?phone=5511942406917hatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  
+  <a href="https://www.linkedin.com/in/octavius-alimari-42423a23b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
