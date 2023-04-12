@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Bem vindo! Me chamo Octavius Alimari e estou aprendendo programação <strong>full-stack web</strong>.<br>
+  Bem vindo! Me chamo Octavius Alimari e estou aprendendo programação <strong>Backend</strong>.<br>
   No momento estudo Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (Faculdade das Américas) e trabalhando na empresa Jazz Tech como desenvoldedor backend junior.
 </p>
 
 <p align="left">
- 🖥️ Linguagens: <strong>C#, Java, Javascript e CSS</strong> por enquanto.
+ 🖥️ Linguagens: <strong>C#, Java e um pouco de C++  </strong> por enquanto.
 </p>
 
 <p align="left">
