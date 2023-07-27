@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Bem vindo! Me chamo Octavius Alimari e estou aprendendo programação <strong>Backend</strong>.<br>
-  No momento estudo Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (Faculdade das Américas) e trabalhando na empresa Jazz Tech como desenvoldedor backend junior.
+  No momento estudo Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (Faculdade das Américas) e atuo como desenvolvedor Backend Pleno.
 </p>
 
 <p align="left">
