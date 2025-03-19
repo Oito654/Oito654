@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Bem vindo! Me chamo Octavius Alimari e estou aprendendo programação <strong>Backend</strong>.<br>
-  No momento estudo Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (Faculdade das Américas) e atuo como desenvolvedor FullStack.
+  Sou formado em Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (Faculdade das Américas) e atuo como desenvolvedor FullStack.
 </p>
 
 <p align="left">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>.NET, .NET Core, MongoDB, Bootsrap, Node, Yarn, Reactive JS, Reactive Native e AWS.</strong>
+  💼 Ferramentas: <strong>.NET, .NET Core, MongoDB, Bootsrap, Node, Yarn, Reactive JS, Reactive Native, AWS e Azure.</strong>
 </p>
 
 <p align="left">
