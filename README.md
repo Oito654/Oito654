@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Bem vindo! Me chamo Octavius Alimari e estou aprendendo programação <strong>Backend</strong>.<br>
+  Bem vindo! Me chamo Octavius Alimari.<br>
   Sou formado em Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (Faculdade das Américas) e atuo como desenvolvedor FullStack.
 </p>
 
