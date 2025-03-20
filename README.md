@@ -1,20 +1,24 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Bem vindo! Me chamo Octavius Alimari.<br>
-  Sou formado em Análise e Desenvolvimento de Sistemas no Centro Universitário FAM (Faculdade das Américas) e atuo como desenvolvedor FullStack.
+  Welcome! I'm Octavius Alimari.<br>
+  Full-Stasck Software Developer with 5 years of experience in
+development of robust and scalable solutions, using technologies
+such as .NET, .NET Core, ASP.NET and AWS. Specialized in architecture
+microservices, systems integration and migration to the cloud.
+Proven experience in Full-Stack development, with a focus on
+Back-end, and working in agile teams. Committed to good practices
+development, such as Clean Code, SOLID and DevOps. In love with
+share knowledge and mentor other developers,
+contributing to the technical growth of the teams.
 </p>
 
 <p align="left">
- 🖥️ Linguagens: <strong>C#, Java e um pouco de C++  </strong> por enquanto.
+  💼 Tools: <strong>.NET, .NET Core, MongoDB, Bootsrap, Node, Reactive JS, Reactive Native, AWS e Azure.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>.NET, .NET Core, MongoDB, Bootsrap, Node, Yarn, Reactive JS, Reactive Native, AWS e Azure.</strong>
-</p>
-
-<p align="left">
- ✉ Informações de contato: ⤵️
+ ✉ Contact info: ⤵️
 </p>
 
 <p align="left">
